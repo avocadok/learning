@@ -95,7 +95,7 @@
 
     console.log(liczby.length);
 
-    // dodawanie czegos do istniejacej tablicy
+    // dodawanie czegos na koniec istniejacej tablicy
 
     liczby.push(44); // wstawi liczbe 44 na koncu tablicy
 
